@@ -24,7 +24,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Getting Started
 
-1. Follow the [instructions in the DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) to setup the environmnet. You may encounter PyTorch installation issues on Windows (in particular Windows 11 for me). In this case the required version of PyTorch can be installed using conda: `conda install pytorch=0.4.0 -c` (thank you [KrainskiL](https://github.com/KrainskiL/UnityML_Bananas)!)
+1. Follow the [instructions in the DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) to setup the environment. You may encounter PyTorch installation issues on Windows (in particular Windows 11 for me). In this case the required version of PyTorch can be installed using conda: `conda install pytorch=0.4.0 -c` (thank you [KrainskiL](https://github.com/KrainskiL/UnityML_Bananas)!)
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
